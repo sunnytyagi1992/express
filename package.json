@@ -5,7 +5,8 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "node index.ts"
   }, 
   "dependencies": {
     "cors": "^2.8.5",
